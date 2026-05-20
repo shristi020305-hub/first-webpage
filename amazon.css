@@ -63,9 +63,9 @@
     
     
 }
-.search{
+.search-panel{
     height: 60px;
-    width: 75%;
+    width: 300px;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     color:#0f1111;
@@ -74,6 +74,7 @@
     display: flex;
     justify-content:center;
     align-items: center;
+    
 }
 
 .dropdown{
@@ -95,10 +96,10 @@
 }
 .searchicon{
     height: 40px;
-    width:45px;
+    width: 45px;
     background-color: rgb(255, 153, 0);
-   border-top-right-radius: 5px;
-   border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
