@@ -1,0 +1,25 @@
+#ddd{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#ppp{
+    height: 60px;
+    color: white;
+    
+    background-color: black;
+    border-style:solid ;
+    border-color: rgb(240, 205, 7);
+    
+}
+button{
+    color: orange;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}

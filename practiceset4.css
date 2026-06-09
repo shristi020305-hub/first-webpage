@@ -1,0 +1,40 @@
+
+
+#ppp{
+    height: 50px;
+    color: white;
+    
+    background-color: black;
+    border-style:solid ;
+    border-color: rgb(240, 205, 7);
+    
+}
+button{
+    background-color: orange;
+    color: white;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 190px;
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blueviolet;
+    color:rgb(153, 53, 6);
+    background-color: aquamarine;
+    display: inline-block;
+    margin-right: 50px;
+}
+main{
+    height: 540px;;
+}
+footer{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
